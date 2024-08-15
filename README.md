@@ -12,6 +12,8 @@ Here’s a README.md file format with additional details.
 5. [Comparison Between Vite.js and Next.js](#comparison-between-vitejs-and-nextjs)
    - [Overview](#overview)
    - [Development Speed](#development-speed)
+   - [What Makes Next.js Remarkable?](#What-Makes-Next.js-Remarkable?)
+   - [What Makes Vite.js Remarkable?](#What-Makes-Vite.js-Remarkable?)
    - [Flexibility and Use Cases](#flexibility-and-use-cases)
    - [Learning Curve](#learning-curve)
    - [Ecosystem and Community](#ecosystem-and-community)
@@ -80,7 +82,7 @@ React is a declarative, efficient, and flexible JavaScript library for building 
 - **Vite.js**: A next-generation frontend tool that leverages native ES modules and modern browser features to deliver lightning-fast development experiences. Vite focuses on speed and simplicity, making it an excellent choice for small to medium-sized projects.
 - **Next.js**: A powerful React framework that provides a comprehensive solution for building production-ready applications. It offers server-side rendering (SSR), static site generation (SSG), API routes, and other advanced features, making it ideal for complex, large-scale applications.
 
-## What Makes Next.js Remarkable?
+### What Makes Next.js Remarkable?
 
 **Next.js** is a powerful framework built on top of React, and it has quickly become a go-to solution for developers aiming to build robust and performant web applications. Let's explore some of its key features:
 
@@ -99,7 +101,7 @@ React is a declarative, efficient, and flexible JavaScript library for building 
 5. **Incremental Static Regeneration (ISR)**:
    - ISR allows us to update static pages without the need to rebuild the entire site. This feature merges the benefits of static site generation and server-side rendering, providing a highly optimized and scalable solution.
 
-## What Makes Vite.js Remarkable?
+### What Makes Vite.js Remarkable?
 
 Now, turning our attention to **Vite.js**, a build tool that has revolutionized the development experience with its speed and efficiency:
 
